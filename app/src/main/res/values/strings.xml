@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RizkyAlfikri_DANAppretechAndroid_Batch2_Exam4</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="poster_login">Poster Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="error_email">Email tidak boleh kosong !</string>
+    <string name="error_pass">Password tidak boleh kosong !</string>
+    <string name="welcome">Welcome</string>
+    <string name="failure_send">Gagal mengirim data profile</string>
+    <string name="success_send">Berhasil mengirim data profile</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="login_success">Login Success</string>
+    <string name="don_t_have_account">Don/\'t have account ?</string>
+    <string name="create_one">Create one</string>
+    <string name="sign_up">This feature for coming soon</string>
+    <string name="poster">Poster</string>
+    <string name="news_app">News App</string>
+    <string name="news_detail">News Detail</string>
+    <string name="g2labs_academy">G2Labs Academy</string>
+</resources>
